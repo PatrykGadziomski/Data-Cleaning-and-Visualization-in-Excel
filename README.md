@@ -30,4 +30,3 @@ We will us this PivotTables for our Visualizations.
 ## Building Dashboard
 Now we gonna do the fun part. We build the Dashboard.<br>
 For the charts we gonna use the Data from our PivotTables and we gonna add some Filters to make this Dashboard interactiv.
-
